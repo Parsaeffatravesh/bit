@@ -4,3 +4,4 @@ mnemonic==0.20
 bip32utils==0.3.post4
 aiohttp==3.10.5
 requests==2.31.0
+bitcoinlib
