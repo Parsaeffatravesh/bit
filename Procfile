@@ -1,1 +1,0 @@
-worker: python bitcoin_wallet_bot.py
